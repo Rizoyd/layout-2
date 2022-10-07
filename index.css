@@ -28,7 +28,7 @@ li {
 }
 
 .header {
-  background: url(../header-bg.jpg) no-repeat center/cover;
+  background: url(header-bg.jpg) no-repeat center/cover;
 }
 
 .header a {
